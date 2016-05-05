@@ -1,4 +1,5 @@
 import org.junit.After;
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -38,7 +39,8 @@ public class ImdbTests {
         driver.findElement(By.id("navbar-query")).sendKeys(searchTerm);
         driver.findElement(By.id("navbar-submit-button")).click();
         driver.findElement(By.xpath("//td[2]/a")).click();
-        assertTrue(driver.getTitle().matches("^regexpi:\\.[\\s\\S]*\\$\\{searchTerm\\}\\.[\\s\\S]*$"));
+        //assertTrue(driver.getTitle().matches("^regexpi:\\.[\\s\\S]*\\$\\{searchTerm\\}\\.[\\s\\S]*$"));
+        Assert.assertTrue(driver.getTitle().matches("^regexpi:\\.[\\s\\S]*\\$\\{searchTerm\\}\\.[\\s\\S]*$"));
     }
 
     @After

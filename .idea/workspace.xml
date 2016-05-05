@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b327925d-bdde-4a62-ac9b-0be0972659f7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/ImdbParameterizedTests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/ImdbTests.class" afterPath="$PROJECT_DIR$/target/test-classes/ImdbTests.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ImdbTests.java" afterPath="$PROJECT_DIR$/src/test/java/ImdbTests.java" />
     </list>
     <ignored path="Github_Project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImdbTests.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ImdbTests.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ImdbTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+            <state relative-caret-position="453">
+              <caret line="49" column="50" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImdbParameterizedTests.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ImdbParameterizedTests.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ImdbParameterizedTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+            <state relative-caret-position="149">
+              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="35" selection-end-column="34" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -86,8 +85,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/ImdbTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/ImdbParameterizedTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ImdbTests.java" />
       </list>
     </option>
   </component>
@@ -665,7 +664,7 @@
       <option name="presentableId" value="Default" />
       <updated>1461840706750</updated>
       <workItem from="1461840708349" duration="1598000" />
-      <workItem from="1462444477573" duration="1475000" />
+      <workItem from="1462444477573" duration="1996000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1462444547640</created>
@@ -695,7 +694,14 @@
       <option name="project" value="LOCAL" />
       <updated>1462446104556</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="-- nuevo codigo, ImdbParameterizeTest">
+      <created>1462446510050</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1462446510050</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -707,7 +713,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3073000" />
+    <option name="totallyTimeSpent" value="3594000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -747,7 +753,8 @@
     <MESSAGE value="commit" />
     <MESSAGE value="Cambio en la dependecias, pom.xml" />
     <MESSAGE value="-- cambio de pelicula" />
-    <option name="LAST_COMMIT_MESSAGE" value="-- cambio de pelicula" />
+    <MESSAGE value="-- nuevo codigo, ImdbParameterizeTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="-- nuevo codigo, ImdbParameterizeTest" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -784,25 +791,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ImdbTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ImdbParameterizedTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        <state relative-caret-position="149">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="35" selection-end-column="34" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
             <element signature="e#1158#1159#0" expanded="true" />
             <element signature="e#1202#1203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ImdbTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="49" column="50" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
