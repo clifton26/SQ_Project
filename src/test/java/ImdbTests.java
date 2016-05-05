@@ -33,7 +33,7 @@ public class ImdbTests {
     @Test
     public void testImdbTests2() throws Exception {
         driver.get(baseUrl + "/");
-        String searchTerm = "Godzilla";
+        String searchTerm = "Star Wars";
         driver.findElement(By.id("navbar-query")).clear();
         driver.findElement(By.id("navbar-query")).sendKeys(searchTerm);
         driver.findElement(By.id("navbar-submit-button")).click();
