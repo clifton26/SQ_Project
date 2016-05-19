@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b327925d-bdde-4a62-ac9b-0be0972659f7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/html/MainPage.html" afterPath="$PROJECT_DIR$/src/webapp/MainPage.html" />
     </list>
     <ignored path="Github_Project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -689,7 +688,7 @@
       <updated>1461840706750</updated>
       <workItem from="1461840708349" duration="1598000" />
       <workItem from="1462444477573" duration="1996000" />
-      <workItem from="1463652720198" duration="749000" />
+      <workItem from="1463652720198" duration="910000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1462444547640</created>
@@ -733,7 +732,14 @@
       <option name="project" value="LOCAL" />
       <updated>1463652848041</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="folder changed">
+      <created>1463653627458</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1463653627458</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -745,7 +751,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4343000" />
+    <option name="totallyTimeSpent" value="4504000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -787,7 +793,8 @@
     <MESSAGE value="-- cambio de pelicula" />
     <MESSAGE value="-- nuevo codigo, ImdbParameterizeTest" />
     <MESSAGE value="Added MainPage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added MainPage" />
+    <MESSAGE value="folder changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="folder changed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
