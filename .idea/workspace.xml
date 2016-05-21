@@ -39,8 +39,8 @@
       <file leaf-file-name="ImdbParameterizedTests.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ImdbParameterizedTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            <state relative-caret-position="187">
+              <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -678,7 +678,7 @@
       <workItem from="1463650455082" duration="61000" />
       <workItem from="1463650805962" duration="2592000" />
       <workItem from="1463834581034" duration="148000" />
-      <workItem from="1463834774836" duration="302000" />
+      <workItem from="1463834774836" duration="314000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1462444547640</created>
@@ -743,7 +743,14 @@
       <option name="project" value="LOCAL" />
       <updated>1463834897118</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="solo un test - ImdbParameterizedTests">
+      <created>1463835086621</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1463835086621</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -755,7 +762,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8411000" />
+    <option name="totallyTimeSpent" value="8423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -981,8 +988,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ImdbParameterizedTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        <state relative-caret-position="187">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
